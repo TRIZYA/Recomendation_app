@@ -1,0 +1,46 @@
+{
+  "name": "stki",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heyputer/puter.js": "^2.5.3",
+    "@nlpjs/lang-id": "^5.0.0-alpha.5",
+    "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
+    "chunk": "^0.0.3",
+    "dom": "^0.0.3",
+    "dommatrix": "^0.1.1",
+    "dotenv": "^17.3.1",
+    "firebase": "^12.10.0",
+    "franc": "^6.2.0",
+    "fs": "^0.0.1-security",
+    "ml-knn": "^3.0.0",
+    "natural": "^8.1.1",
+    "path": "^0.12.7",
+    "pdf-parse": "^2.4.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^3.8.0",
+    "stopword": "^3.1.5",
+    "url": "^0.11.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "globals": "^15.14.0",
+    "vite": "^6.0.5"
+  }
+}
